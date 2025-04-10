@@ -14,4 +14,4 @@
 * Updated BurpSuite Activation. Later versions of ansible would hang if a shell script started a process that didn't die. Put a timeout on the java process
 
 # Issues
-* Bloodhound Docker - ```bash ansible-galaxy collection install community.docker --force ```
+* Bloodhound Docker - ```ansible-galaxy collection install community.docker --force ```
